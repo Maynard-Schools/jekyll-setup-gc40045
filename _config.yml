@@ -11,8 +11,8 @@ email: gc1795@s.maynard.k12.ma.us
 description: > This is a website made by me.
 baseurl: "/jekyll-simple" # the subpath of your site, e.g. /blog
 url: https://maynard-schools.github.io/jekyll-setup-gc40045/
-twitter_username: Taffyer 
-github_username:  wild-flame 
+twitter_username: none 
+github_username:  gc40045 
 
 # Build settings
 markdown: kramdown
