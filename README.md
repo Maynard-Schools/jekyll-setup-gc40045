@@ -1,11 +1,7 @@
 # jekyll-simple
 
 ## simple
-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
-
-Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
-
-Supposedly, this could work with Japanese as well but never had a chance to try.
+https://maynard-schools.github.io/jekyll-setup-gc40045/
 
 ## Story behind this theme
 
